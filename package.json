@@ -1,0 +1,19 @@
+{
+  "name": "canvas-browser-game",
+  "version": "0.0.1",
+  "description": "experiment creating a canvas browser game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thejohnbackes/canvas-browser-game.git"
+  },
+  "author": "thejohnbackes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thejohnbackes/canvas-browser-game/issues"
+  },
+  "homepage": "https://github.com/thejohnbackes/canvas-browser-game#readme"
+}
